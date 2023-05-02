@@ -1,0 +1,26 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+
+# IDE files
+.vscode/
+*.pydevproject
+*.pyc
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Other
+*.swp
+*.swo
+*.bak
+.DS_Store
+
+# Draft
+draft.txt
